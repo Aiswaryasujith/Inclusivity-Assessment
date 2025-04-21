@@ -1,0 +1,101 @@
+ID,Age,Gender,Education_Level,Employment_Status,Income,Perceived_Barriers_to_Education,Perceived_Barriers_to_Employment
+1,42,Non-Binary,None,Student,0,Accessibility,None
+2,44,Female,Master's,Student,20000,Financial,None
+3,20,Female,None,Student,100000,Accessibility,Lack of Opportunities
+4,34,Male,None,Student,20000,Accessibility,None
+5,50,Male,Master's,Unemployed,0,Financial,Discrimination
+6,49,Non-Binary,High School,Employed,60000,Financial,None
+7,43,Male,Bachelor's,Employed,60000,None,None
+8,37,Male,Bachelor's,Unemployed,0,Accessibility,None
+9,48,Male,Master's,Employed,60000,Accessibility,Lack of Opportunities
+10,40,Male,High School,Employed,80000,None,Discrimination
+11,55,Non-Binary,High School,Employed,80000,Accessibility,Lack of Opportunities
+12,31,Non-Binary,None,Employed,40000,None,Lack of Opportunities
+13,50,Non-Binary,High School,Student,60000,None,None
+14,26,Female,High School,Unemployed,60000,Financial,None
+15,36,Non-Binary,Bachelor's,Student,80000,None,Discrimination
+16,26,Non-Binary,Bachelor's,Unemployed,100000,Financial,None
+17,24,Female,None,Unemployed,100000,None,Discrimination
+18,57,Non-Binary,Master's,Student,20000,None,Discrimination
+19,34,Male,High School,Employed,60000,None,Lack of Opportunities
+20,52,Male,None,Student,0,Financial,Lack of Opportunities
+21,63,Non-Binary,Master's,Student,40000,None,Lack of Opportunities
+22,56,Non-Binary,Master's,Student,20000,Accessibility,Discrimination
+23,27,Female,Bachelor's,Student,40000,Financial,Lack of Opportunities
+24,37,Non-Binary,Bachelor's,Unemployed,80000,Accessibility,Lack of Opportunities
+25,24,Female,Master's,Student,20000,None,None
+26,64,Female,Bachelor's,Student,60000,None,Discrimination
+27,22,Female,High School,Unemployed,20000,Accessibility,Discrimination
+28,61,Non-Binary,None,Student,40000,Accessibility,Discrimination
+29,39,Non-Binary,Master's,Unemployed,0,Accessibility,Lack of Opportunities
+30,48,Non-Binary,None,Unemployed,0,None,Lack of Opportunities
+31,53,Female,Bachelor's,Student,100000,None,Discrimination
+32,24,Male,None,Employed,60000,Financial,None
+33,40,Female,Bachelor's,Employed,80000,Financial,None
+34,45,Non-Binary,High School,Unemployed,60000,None,None
+35,38,Male,High School,Student,100000,Financial,None
+36,57,Female,Master's,Unemployed,20000,None,Discrimination
+37,58,Non-Binary,Bachelor's,Employed,60000,Financial,Discrimination
+38,31,Non-Binary,Bachelor's,Employed,60000,Accessibility,Discrimination
+39,53,Female,Bachelor's,Employed,60000,None,None
+40,48,Male,High School,Unemployed,40000,None,None
+41,46,Male,Bachelor's,Unemployed,20000,Accessibility,None
+42,51,Male,Master's,Unemployed,100000,Accessibility,None
+43,34,Non-Binary,Master's,Unemployed,0,Financial,Lack of Opportunities
+44,21,Female,None,Student,20000,Accessibility,None
+45,53,Male,None,Employed,80000,Accessibility,Lack of Opportunities
+46,18,Non-Binary,High School,Unemployed,20000,Accessibility,Discrimination
+47,23,Male,Bachelor's,Student,0,Accessibility,Discrimination
+48,64,Female,High School,Employed,20000,Accessibility,Lack of Opportunities
+49,43,Male,High School,Employed,60000,Accessibility,None
+50,63,Female,High School,Unemployed,60000,Financial,Lack of Opportunities
+51,60,Female,Master's,Employed,40000,Financial,Discrimination
+52,58,Male,Master's,Employed,80000,None,Discrimination
+53,18,Male,Master's,Student,20000,Financial,Lack of Opportunities
+54,57,Male,None,Unemployed,0,Financial,Discrimination
+55,49,Non-Binary,Master's,Unemployed,80000,Accessibility,Discrimination
+56,39,Male,Master's,Unemployed,60000,None,Lack of Opportunities
+57,33,Male,None,Student,20000,Accessibility,Discrimination
+58,64,Non-Binary,High School,Employed,80000,Financial,None
+59,38,Non-Binary,Master's,Unemployed,60000,Financial,Discrimination
+60,63,Non-Binary,None,Employed,100000,Accessibility,Lack of Opportunities
+61,22,Non-Binary,Bachelor's,Unemployed,100000,Accessibility,Lack of Opportunities
+62,30,Non-Binary,High School,Student,60000,Financial,None
+63,54,Male,Master's,Employed,80000,Accessibility,Lack of Opportunities
+64,32,Male,Master's,Employed,60000,None,Discrimination
+65,33,Male,None,Unemployed,100000,None,Lack of Opportunities
+66,27,Non-Binary,None,Employed,40000,Financial,Lack of Opportunities
+67,52,Male,Master's,Student,60000,None,None
+68,46,Non-Binary,Bachelor's,Student,60000,None,Lack of Opportunities
+69,23,Non-Binary,Bachelor's,Employed,100000,Financial,Discrimination
+70,23,Male,Master's,Unemployed,100000,Accessibility,Lack of Opportunities
+71,38,Female,None,Unemployed,20000,Accessibility,Discrimination
+72,50,Male,Master's,Unemployed,80000,Financial,Discrimination
+73,49,Female,High School,Unemployed,80000,None,Lack of Opportunities
+74,24,Male,None,Unemployed,20000,Accessibility,None
+75,37,Male,High School,Employed,60000,Accessibility,Discrimination
+76,53,Non-Binary,None,Employed,40000,Accessibility,Lack of Opportunities
+77,36,Male,Master's,Student,100000,Financial,Lack of Opportunities
+78,63,Male,Master's,Unemployed,100000,Financial,Discrimination
+79,25,Male,Bachelor's,Unemployed,40000,Accessibility,Discrimination
+80,53,Non-Binary,None,Unemployed,40000,Financial,Discrimination
+81,39,Male,High School,Unemployed,0,Financial,Lack of Opportunities
+82,52,Female,None,Employed,80000,Financial,Discrimination
+83,31,Male,None,Unemployed,20000,None,None
+84,56,Non-Binary,None,Employed,40000,None,Discrimination
+85,53,Male,High School,Student,80000,Financial,Discrimination
+86,55,Non-Binary,None,Unemployed,20000,None,Discrimination
+87,36,Male,High School,Unemployed,60000,Accessibility,Discrimination
+88,46,Non-Binary,Bachelor's,Employed,80000,Financial,None
+89,23,Female,Bachelor's,Unemployed,40000,None,None
+90,56,Non-Binary,High School,Unemployed,100000,None,None
+91,42,Male,None,Student,100000,None,Discrimination
+92,38,Female,Master's,Student,60000,Accessibility,None
+93,54,Male,Master's,Employed,60000,Financial,Discrimination
+94,33,Male,None,Employed,60000,Accessibility,Lack of Opportunities
+95,36,Male,None,Student,80000,Accessibility,Lack of Opportunities
+96,29,Non-Binary,Bachelor's,Student,0,Financial,None
+97,30,Female,Master's,Unemployed,0,Financial,Discrimination
+98,29,Female,None,Student,20000,None,None
+99,20,Female,Bachelor's,Employed,20000,None,Discrimination
+100,57,Male,High School,Employed,60000,Accessibility,Discrimination
